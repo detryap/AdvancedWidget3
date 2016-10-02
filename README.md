@@ -1,10 +1,10 @@
 # AdvancedWidget3
 
 ## Identitas
-* Nama : Mufti Alie Satriawan
-* No : 24
-* Kelas : XII RPL 5
-* NIS : 4381/1279.070
+* Nama : Detry Ajeng Pratiwi
+* No : 10
+* Kelas : XII RPL 2
+* NIS : 4320/1218.063
 * Sekolah : SMK Telkom Malang
 
 ## File ScreenSort
